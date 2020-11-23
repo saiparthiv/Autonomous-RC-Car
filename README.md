@@ -10,6 +10,7 @@ Open CV is used to train the model by helping it identify specific traffic signa
    2)Ultra Sonic Sensor<br/>
    3)Camera Module<br/>
    4)RC Car<br/>
+   <br/>
   Software:<br/>
    1)Python<br/>
    2)OpenCV<br/>
